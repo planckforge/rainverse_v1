@@ -28,9 +28,8 @@ export default function App() {
     <div className="min-h-screen bg-white text-gray-800 font-sans">
       {stage === 'welcome' && (
         <div className="flex flex-col items-center justify-center min-h-screen text-center p-6 animate-fadeIn">
-          <h1 className="text-5xl font-bold mb-4 bg-gradient-to-r from-indigo-500 to-pink-500 text-transparent bg-clip-text">
-            Welcome to Rainverse_v1
-          </h1>
+          Welcome to 🌧️ Rainverse Dream
+
           <p className="text-lg text-gray-600 mb-8">
             Turn your emotions into magical expressions — poem, lyrics, letter or a story.
           </p>
